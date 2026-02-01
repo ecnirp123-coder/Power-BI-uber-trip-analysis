@@ -9,6 +9,7 @@ This project demonstrates data analysis and visualization using Power BI Desktop
 - Power BI Desktop
 - SQL
 - Snowflake
+- Excel / CSV
 
 ### 📌 Note
 Power BI reports cannot run directly on GitHub.  
